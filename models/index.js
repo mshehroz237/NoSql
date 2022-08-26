@@ -1,5 +1,4 @@
 const Pizza = require('./Pizza');
-
-const comment = require('./Comment');
+const Comment = require('./Comment');
 
 module.exports = { Pizza, Comment };
